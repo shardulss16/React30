@@ -6,7 +6,8 @@ import React from 'react'
 // import ToggleSwitch from './ToggleSwitch'
 // import Six from './Six.js'
 // import Eight from './Eight'
-import Nine from './Nine'
+// import Nine from './Nine'
+import Ten from './Ten'
 
 
 function App() {
@@ -18,7 +19,8 @@ function App() {
     // <ToggleSwitch/>
     // <Six/>
     // <Eight/>
-    <Nine/>
+    // <Nine/>
+    <Ten/>
   )
 }
 
