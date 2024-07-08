@@ -3,7 +3,8 @@ import React from 'react'
 // import Counter from './Counter'
 // import ShowUserInput from './ShowUserInput'
 // import Four from './Four'
-import ToggleSwitch from './ToggleSwitch'
+// import ToggleSwitch from './ToggleSwitch'
+import Six from './Six.js'
 
 
 function App() {
@@ -12,7 +13,8 @@ function App() {
     // <Counter/>
     // <ShowUserInput/>
     // <Four/>
-    <ToggleSwitch/>
+    // <ToggleSwitch/>
+    <Six/>
   )
 }
 
