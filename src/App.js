@@ -5,7 +5,8 @@ import React from 'react'
 // import Four from './Four'
 // import ToggleSwitch from './ToggleSwitch'
 // import Six from './Six.js'
-import Eight from './Eight'
+// import Eight from './Eight'
+import Nine from './Nine'
 
 
 function App() {
@@ -16,7 +17,8 @@ function App() {
     // <Four/>
     // <ToggleSwitch/>
     // <Six/>
-    <Eight/>
+    // <Eight/>
+    <Nine/>
   )
 }
 
