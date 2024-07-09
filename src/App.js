@@ -7,8 +7,8 @@ import React from 'react'
 // import Six from './Six.js'
 // import Eight from './Eight'
 // import Nine from './Nine'
-import Ten from './Ten'
-
+// import Ten from './Ten'
+import Eleven from './Eleven'
 
 function App() {
   return (
@@ -20,7 +20,8 @@ function App() {
     // <Six/>
     // <Eight/>
     // <Nine/>
-    <Ten/>
+    // <Ten/>
+    <Eleven/>
   )
 }
 
