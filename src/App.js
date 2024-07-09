@@ -10,7 +10,8 @@ import React from 'react'
 // import Ten from './Ten'
 // import Eleven from './Eleven'
 // import Twelve from './Twelve'
-import Thirteen from './Thirteen'
+// import Thirteen from './Thirteen'
+
 
 function App() {
 
@@ -27,7 +28,8 @@ function App() {
     // <Ten/>
     // <Eleven/>
     // <Twelve items ={items}/>
-    <Thirteen/>
+    // <Thirteen/>
+    <></>
   )
 }
 
