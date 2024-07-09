@@ -8,9 +8,12 @@ import React from 'react'
 // import Eight from './Eight'
 // import Nine from './Nine'
 // import Ten from './Ten'
-import Eleven from './Eleven'
+// import Eleven from './Eleven'
+import Twelve from './Twelve'
 
 function App() {
+
+  const items =['Item1', 'Item2','Item3','Another Item4','Item5',]
   return (
     // <One />
     // <Counter/>
@@ -21,7 +24,8 @@ function App() {
     // <Eight/>
     // <Nine/>
     // <Ten/>
-    <Eleven/>
+    // <Eleven/>
+    <Twelve items ={items}/>
   )
 }
 
